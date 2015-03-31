@@ -1,0 +1,22 @@
+#+title: org-banka
+Pomodoro Mode for emacs
+
+* Mission
+  Be a real simple set of tools that sits on top of org-mode, and as
+  accurately as possible capture the essence of what makes the
+  Pomodoro technique great.
+
+* Todo list
+  - [ ] Start a pomo
+  - [ ] notification when a pomo is done
+  - [ ] Kill a pomo mid-pomo
+  - [ ] Show the current pomo in the mode line
+  - [ ] Handle interruptions with '
+    - [ ] increment an internal interruption counter (org prop)
+	- [ ] Launch a capture template when interupted
+  - [ ] Handle external interuptions with -
+	- [ ] counter
+	- [ ] capture template
+  - [ ] Clock report?
+  - [ ] Estimates?
+
